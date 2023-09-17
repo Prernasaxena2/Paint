@@ -1,2 +1,2 @@
 # Paint
-hosted on : https://prernacoder.github.io/Paint/
+hosted on : https://prernasaxena2.github.io/Paint/
